@@ -25,4 +25,4 @@
 ## 📫 Connect with Me  
 📧 Email: **mailtoafif2112@gmail.com**  
 🔗 LinkedIn: **[linkedin.com/in/afif01](http://linkedin.com/in/afif01)**  
-💻 GitHub: **https://github.com/afif2112/afif**  
+💻 GitHub: **https://github.com/afif2112**  
